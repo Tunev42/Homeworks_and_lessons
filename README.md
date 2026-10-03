@@ -5,6 +5,6 @@ In this repository will be only homeworks and lessons
 
 В данном файле рассказывается как работает лист без листа и чем он отличается от обычного списка
 
-# In file 'lesson_5(6)'
+# In file 'lesson_6'
 
 В данном файле рассказываеться как работают методы heapq и deque, а также как работать с графами
